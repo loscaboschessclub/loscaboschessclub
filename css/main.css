@@ -669,9 +669,6 @@ caption {
     width: 100%; } }
 
 /* Navigation */
-aside {
-  float: left;
-  width: 200px;
-}
+
 /* Layout
   =============== */
