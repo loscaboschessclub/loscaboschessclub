@@ -183,7 +183,7 @@ html {
   font-size: 1rem; }
 
 body {
-  color: #404040;
+  color: #062170;
   background: white;
   font-size: 1rem; }
 
@@ -209,7 +209,7 @@ h5 {
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  color: #404040; }
+  color: ##705606; }
   h1:not(:first-child),
   h2:not(:first-child),
   h3:not(:first-child),
@@ -254,10 +254,10 @@ h5 {
     font-size: 1.25rem; } }
 
 a {
-  color: #0366EE;
+  color: #dfbb7f;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #0246a2;
+    color: #d2dd7e;
     text-decoration: underline; }
 
 mark {
