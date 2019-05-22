@@ -183,8 +183,8 @@ html {
   font-size: 1rem; }
 
 body {
-  color: #b38707;
-  background: #fbfbfb;
+  color: #404040;
+  background: white;
   font-size: 1rem; }
 
 p,
@@ -209,7 +209,7 @@ h5 {
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   line-height: 1.2;
-  color: #b38707; }
+  color: #404040; }
   h1:not(:first-child),
   h2:not(:first-child),
   h3:not(:first-child),
@@ -254,10 +254,10 @@ h5 {
     font-size: 1.25rem; } }
 
 a {
-  color: #062170;
+  color: #0366EE;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #4da1a9;
+    color: #0246a2;
     text-decoration: underline; }
 
 mark {
@@ -322,15 +322,6 @@ dt {
 
 dd {
   margin-bottom: .5rem; }
-
-
-.flex-container {
-  max-width: 900px;
-  display: flex;
-  align-items: center; 
-  justify-content: center;
-  flex-direction: row-reverse;
-}
 
 .full-container {
   max-width: 100%;
@@ -670,10 +661,7 @@ caption {
   .contain-table {
     width: 100%; } }
 
-/* Navigation */
-.nav {
-    padding: 30px 30px 110px;
-     }
-}
+/* Navigation
+  =============== */
 /* Layout
   =============== */
