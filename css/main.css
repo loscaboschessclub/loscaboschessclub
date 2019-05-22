@@ -423,6 +423,13 @@ dd {
   align-items: center;
   justify-content: center; }
 
+.bg {
+  background-image: url(images/gato.JPG);
+  height: 50%;  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
 .responsive-image {
   max-width: 100%;
   height: auto; }
