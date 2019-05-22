@@ -184,7 +184,7 @@ html {
 
 body {
   color: #b38707;
-  background: #white;
+  background: #EAEAEA;
   font-size: 1rem; }
 
 p,
@@ -254,10 +254,10 @@ h5 {
     font-size: 1.25rem; } }
 
 a {
-  color: #dfbb7f;
+  color: #062170;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #ffa630;
+    color: #4da1a9;
     text-decoration: underline; }
 
 mark {
