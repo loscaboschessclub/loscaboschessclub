@@ -362,6 +362,12 @@ dd {
   flex-direction: row;
   flex-wrap: wrap; }
 
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; }
+
+
 .flex-small,
 .flex-large {
   flex-basis: 100%;
