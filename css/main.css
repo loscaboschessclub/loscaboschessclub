@@ -184,7 +184,7 @@ html {
 
 body {
   color: #404040;
-  background: white;
+  background: #062170;
   font-size: 1rem; }
 
 p,
@@ -480,9 +480,9 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #0366EE;
+  border: 1px solid #dfbb7f;
   border-radius: 4px;
-  background: #0366EE;
+  background: #dfbb7f;
   color: #ffffff;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
@@ -497,14 +497,14 @@ dd {
   line-height: 1; }
 
 .button:hover, a.button:hover, button:hover, [type=submit]:hover, [type=reset]:hover, [type=button]:hover {
-  border: 1px solid #0250bc;
-  background: #0250bc;
+  border: 1px solid #705606;
+  background: #705606;
   color: #ffffff;
   text-decoration: none; }
 
 .button:focus, .button:active, a.button:focus, a.button:active, button:focus, button:active, [type=submit]:focus, [type=submit]:active, [type=reset]:focus, [type=reset]:active, [type=button]:focus, [type=button]:active {
-  border: 1px solid #0250bc;
-  background: #0250bc;
+  border: 1px solid #705606;
+  background: #705606;
   color: #ffffff;
   text-decoration: none; }
 
