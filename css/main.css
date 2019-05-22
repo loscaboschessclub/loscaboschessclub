@@ -326,7 +326,9 @@ dd {
 
 .flex-container {
   display: flex;
-  justify-content: space-between;}
+  justify-content: flex-start;
+  flex-direction: column;
+}
 
 .full-container {
   max-width: 100%;
