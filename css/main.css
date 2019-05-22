@@ -326,6 +326,7 @@ dd {
 
 .flex-container {
   display: flex;
+  align-items: center; 
   justify-content: flex-start;
   flex-direction: row-reverse;
 }
@@ -669,9 +670,9 @@ caption {
     width: 100%; } }
 
 /* Navigation */
-
-nav {
-  max-width: 400px;
-  }
+.nav {
+    padding: 30px 30px 110px;
+     }
+}
 /* Layout
   =============== */
