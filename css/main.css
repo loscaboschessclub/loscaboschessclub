@@ -670,5 +670,8 @@ caption {
 
 /* Navigation */
 
+nav {
+  max-width: 400px;
+  }
 /* Layout
   =============== */
