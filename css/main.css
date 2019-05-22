@@ -325,6 +325,7 @@ dd {
 
 
 .flex-container {
+  max-width: 900px;
   display: flex;
   align-items: center; 
   justify-content: flex-start;
