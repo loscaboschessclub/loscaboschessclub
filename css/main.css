@@ -334,12 +334,14 @@ dd {
   margin-right: auto; }
 
 .small-container {
+  background:#b38070;
   max-width: 800px; }
 
 .medium-container {
   max-width: 1000px; }
 
 .content-section {
+  border: 1px solid #b38707;
   padding: 30px 0; }
 
 @media (min-width: 600px) {
