@@ -669,6 +669,7 @@ caption {
 /* Navigation */
 aside {
   float: left;
+  width: 200px;
 }
 /* Layout
   =============== */
