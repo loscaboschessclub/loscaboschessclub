@@ -327,7 +327,7 @@ dd {
 .flex-container {
   display: flex;
   justify-content: flex-start;
-  flex-direction: column;
+  flex-direction: row-reverse;
 }
 
 .full-container {
