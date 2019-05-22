@@ -184,7 +184,7 @@ html {
 
 body {
   color: #404040;
-  background: white;
+  background: #062170;
   font-size: 1rem; }
 
 p,
@@ -334,6 +334,7 @@ dd {
   margin-right: auto; }
 
 .small-container {
+  background: white;
   max-width: 800px; }
 
 .medium-container {
