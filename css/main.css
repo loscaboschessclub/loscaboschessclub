@@ -480,9 +480,9 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #0366EE;
+  border: 1px solid #b38707;
   border-radius: 4px;
-  background: #0366EE;
+  background: #b38707;
   color: #ffffff;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
