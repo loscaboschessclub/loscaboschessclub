@@ -343,8 +343,7 @@ dd {
   border: 5px solid #b38707;
   background: white;
   max-width: 800px;
-  display: flex;
-  justify-content: space-around;}
+  }
 
  .nav,
  .footer{
