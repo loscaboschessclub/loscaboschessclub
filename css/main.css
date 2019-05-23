@@ -345,11 +345,6 @@ dd {
   max-width: 800px;
   }
 
-.fix {
-  display: flex;
-  flex-wrap: wrap;
-}
-
  .nav,
  .footer{
   background color: #b38707;
