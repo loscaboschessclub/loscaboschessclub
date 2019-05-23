@@ -430,7 +430,7 @@ dd {
   justify-content: center; }
 
 .bg {
-  border-bottom: 5px solid #b38707;
+  border: 5px solid #b38707;
   background-image: url("https://loscaboschessclub.github.io/images/gato.JPG");
   height: 100%;
   background-position: center;
