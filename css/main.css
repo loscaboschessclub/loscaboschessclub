@@ -344,6 +344,12 @@ dd {
   background: white;
   max-width: 800px; }
 
+ .nav,
+ .footer{
+  display: flex;
+  justify-content: space-around;
+}
+
 .medium-container {
   max-width: 1000px; }
 
