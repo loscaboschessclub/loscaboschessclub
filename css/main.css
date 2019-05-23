@@ -340,7 +340,7 @@ dd {
 
 .small-container {
   margin: -100px auto 0 auto;
-  border: 5px solid #dfbb7f;
+  border: 5px solid #b38707;
   background: #fafafa;
   max-width: 800px;
   }
@@ -439,7 +439,7 @@ dd {
   justify-content: center; }
 
 .bg {
-  border-bottom: 5px solid #dfbb7f;
+  border-bottom: 5px solid #b38707;
   background-image: url("https://loscaboschessclub.github.io/images/gato.JPG");
   background-position: center;
   background-repeat: no-repeat;
@@ -522,9 +522,9 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #dfbb7f;
+  border: 1px solid #b38707;
   border-radius: 4px;
-  background: #dfbb7f;
+  background: #b38707;
   color: #ffffff;
   font-weight: 600;
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
