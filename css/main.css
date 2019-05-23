@@ -340,14 +340,13 @@ dd {
 
 .small-container {
   margin: -100px auto 0 auto;
-  border: 5px solid #b38707;
+  border: 5px solid #dfbb7f;
   background: #fafafa;
   max-width: 800px;
   }
 
  .nav,
  .footer{
-  background color: #b38707;
   display: flex;
   justify-content: center;
   align-items: center;
