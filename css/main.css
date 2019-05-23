@@ -329,7 +329,6 @@ dd {
 
 .full-container {
   max-width: 100%;
-  border: 5px solid #b38707;
   height: 100%; 
   padding: 0 1rem; }
 
@@ -431,7 +430,7 @@ dd {
   justify-content: center; }
 
 .bg {
-  border: 5px solid #b38707;
+  border-bottom: 5px solid #b38707;
   background-image: url("https://loscaboschessclub.github.io/images/gato.JPG");
   height: 100%;
   background-position: center;
