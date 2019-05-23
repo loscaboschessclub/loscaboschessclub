@@ -349,7 +349,9 @@ dd {
  .footer{
   display: flex;
   justify-content: space-between;
-}
+  flex-direction: row;
+  flex-wrap: wrap;
+} 
 
 .medium-container {
   max-width: 1000px; }
