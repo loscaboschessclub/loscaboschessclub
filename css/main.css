@@ -522,7 +522,7 @@ dd {
 .button, a.button, button, [type=submit], [type=reset], [type=button] {
   -webkit-appearance: none;
   display: inline-block;
-  border: 1px solid #b38707;
+  border: 1px solid #dfbb7f;
   border-radius: 4px;
   background: #dfbb7f;
   color: #ffffff;
