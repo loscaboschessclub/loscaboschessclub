@@ -338,6 +338,7 @@ dd {
   margin-right: auto; }
 
 .small-container {
+  margin: -100px auto 0 auto;
   border: 5px solid #b38707;
   background: white;
   max-width: 800px; }
