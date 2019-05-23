@@ -345,11 +345,16 @@ dd {
   max-width: 800px;
   }
 
+.fix {
+  display: flex;
+  justify-content: center;
+}
+
  .nav,
  .footer{
   display: flex;
   justify-content: space-between;
-  flex-wrap: wrap;
+  align-items: center;
 } 
 
 .medium-container {
