@@ -347,12 +347,11 @@ dd {
 
 .fix {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
  .nav,
  .footer{
-  background-color: #b38707;
   display: flex;
   justify-content: center;
   align-items: center;
