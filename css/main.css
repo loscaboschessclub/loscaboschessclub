@@ -258,10 +258,10 @@ h5 {
     font-size: 1.25rem; } }
 
 a {
-  color: #0b2559;
+  color: #072b73;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #454259;
+    color: #0b2559;
     text-decoration: underline; }
 
 mark {
