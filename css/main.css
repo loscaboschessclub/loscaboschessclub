@@ -258,10 +258,10 @@ h5 {
     font-size: 1.25rem; } }
 
 a {
-  color: #062170;
+  color: #0b2559;
   text-decoration: none; }
   a:hover, a:active, a:focus {
-    color: #2D549C;
+    color: #454259;
     text-decoration: underline; }
 
 mark {
@@ -340,7 +340,7 @@ dd {
 
 .small-container {
   margin: -100px auto 0 auto;
-  border: 5px solid #b38707;
+  border: 5px solid #d9aa55;
   background: #dce6f2;
   max-width: 800px;
   }
