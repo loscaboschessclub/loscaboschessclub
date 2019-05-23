@@ -187,7 +187,7 @@ html {
 body {
   height: 100%;
   margin: 0;
-  background-image: url("images/gato.jpg");
+  background: #fafafa;
   color: #404040;
   font-size: 1rem; }
 
@@ -428,7 +428,7 @@ dd {
   justify-content: center; }
 
 .bg {
-  background-image: url("images/gato.JPG");
+  background-image: url("/gato.JPG");
   height: 50%;  
   background-position: center;
   background-repeat: no-repeat;
