@@ -329,6 +329,7 @@ dd {
 
 .full-container {
   max-width: 100%;
+  border: 5px solid #b38707;
   height: 100%; 
   padding: 0 1rem; }
 
@@ -340,7 +341,7 @@ dd {
 
 .small-container {
   margin: -100px auto 0 auto;
-    height: 100%; 
+  border: 5px solid #b38707
   background: white;
   max-width: 800px; }
 
