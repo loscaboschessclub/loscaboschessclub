@@ -434,7 +434,7 @@ dd {
   height: 50%;  
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;}
+  }
 
 .responsive-image {
   max-width: 100%;
