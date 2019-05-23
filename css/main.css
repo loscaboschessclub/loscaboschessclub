@@ -180,12 +180,16 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font: normal normal normal 1rem/1.6 -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
-  font-size: 1rem; }
+  font-size: 1rem; 
+  height: 100%;
+  margin: 0;}
 
 body {
   color: #404040;
   background: #fafafa;
-  font-size: 1rem; }
+  font-size: 1rem; 
+  height: 100%;
+  margin: 0;}
 
 p,
 ol,
