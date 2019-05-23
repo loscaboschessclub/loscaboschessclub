@@ -424,7 +424,7 @@ dd {
   justify-content: center; }
 
 .bg {
-  background-image: url(images/gato.JPG);
+  background-image: url("images/gato.JPG");
   height: 50%;  
   background-position: center;
   background-repeat: no-repeat;
