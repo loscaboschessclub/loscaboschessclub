@@ -186,7 +186,7 @@ html {
 
 body {
   color: #404040;
-  background: #fafafa;
+  background: url(images/gato.jpg);
   font-size: 1rem; 
   height: 100%;
   margin: 0;}
