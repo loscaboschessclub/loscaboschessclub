@@ -429,7 +429,7 @@ dd {
 
 .bg {
   background-image: url("gato.JPG");
-  height: 100%;  
+  height: 50%;   
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;}
