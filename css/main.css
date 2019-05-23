@@ -441,10 +441,31 @@ dd {
 .bg {
   border-bottom: 5px solid #b38707;
   background-image: url("https://loscaboschessclub.github.io/images/gato.JPG");
-  height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 100%;
+  height: auto;
+  }
+
+.bg1 {
+  border-bottom: 5px solid #b38707;
+  background-image: url("https://loscaboschessclub.github.io/images/gato.JPG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
+  }
+
+.bg2 {
+  border-bottom: 5px solid #b38707;
+  background-image: url("https://loscaboschessclub.github.io/images/gato.JPG");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  height: auto;
   }
 
 .responsive-image {
