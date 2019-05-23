@@ -347,14 +347,15 @@ dd {
 
 .fix {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 
  .nav,
  .footer{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
+  background: #dfbb7f;
 } 
 
 .medium-container {
