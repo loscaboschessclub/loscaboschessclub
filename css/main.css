@@ -187,7 +187,7 @@ html {
 body {
   height: 100%;
   margin: 0;
-  background: #4465a6;
+  background: #eaeaea;
   color: #404040;
   font-size: 1rem; }
 
@@ -341,7 +341,7 @@ dd {
 .small-container {
   margin: -100px auto 0 auto;
   border: 5px solid #d9aa55;
-  background: #dce6f2;
+  background: #fafafa;
   max-width: 800px;
   }
 
