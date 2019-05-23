@@ -349,7 +349,6 @@ dd {
  .footer{
   display: flex;
   justify-content: space-between;
-  flex-direction: row;
   flex-wrap: wrap;
 } 
 
@@ -357,6 +356,8 @@ dd {
   max-width: 1000px; }
 
 .content-section {
+  display: flex;
+  justify-content: center;
   padding: 30px 0; }
 
 @media (min-width: 600px) {
