@@ -341,7 +341,7 @@ dd {
 .small-container {
   margin: -100px auto 0 auto;
   border: 5px solid #b38707;
-  background: white;
+  background: #fafafa;
   max-width: 800px;
   }
 
