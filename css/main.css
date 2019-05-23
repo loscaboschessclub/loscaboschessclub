@@ -344,6 +344,7 @@ dd {
   max-width: 800px; }
 
 .medium-container {
+  border: 5px solid #b38707;
   max-width: 1000px; }
 
 .content-section {
