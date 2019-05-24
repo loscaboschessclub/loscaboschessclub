@@ -445,7 +445,7 @@ dd {
 .arrow {
   color: #454259;
   text-align: center;
-  margin: 8% 0;
+  margin: -100px auto 0 auto;
 }
 .bounce {
   -moz-animation: bounce 2s infinite;
