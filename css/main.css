@@ -259,10 +259,10 @@ h5 {
 
 a {
   color: #072b73;
-  text-decoration: underline; }
+  text-decoration: none; }
   a:hover, a:active, a:focus {
     color: #2f2240;
-    text-decoration: underline; }
+    text-decoration: none; }
 
 mark {
   background: #ffeea8;
