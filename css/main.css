@@ -260,9 +260,23 @@ h5 {
 a {
   color: #072b73;
   text-decoration: none; }
-  a:hover, a:active, a:focus {
-    color: #2f2240;
-    text-decoration: none; }
+
+a:link {
+  color: #734F07;
+}
+
+ a:focus {
+  border-bottom: 1px solid;
+  background: #734F07;}
+
+  a:hover {
+  border-bottom: 1px solid;     
+  background: #734F07;}
+
+  a:active {
+  background: #072b73;
+  color: #734F07;
+  }
 
 mark {
   background: #ffeea8;
