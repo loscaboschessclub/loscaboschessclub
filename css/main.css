@@ -343,6 +343,9 @@ dd {
   border: 5px solid #d9aa55;
   background: #fafafa;
   max-width: 800px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   }
 
  .nav,
