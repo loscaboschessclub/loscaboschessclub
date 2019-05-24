@@ -488,14 +488,16 @@ dd {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
   }
 
 .bg2 {
   border-bottom: 5px solid #d9aa55;
-  background-image: url("https://loscaboschessclub.github.io/images/torneo.JPG");
+  background-image: url("https://loscaboschessclub.github.io/images/torneo.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  height: 100%;
   }
 
 .responsive-image {
