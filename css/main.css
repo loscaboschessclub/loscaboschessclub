@@ -489,7 +489,7 @@ dd {
 
 .bg {
   border-bottom: 5px solid #d9aa55;
-  background-image: url("https://github.com/loscaboschessclub/loscaboschessclub.github.io/blob/master/images/illustration.JPG");
+  background-image: url("https://raw.githubusercontent.com/loscaboschessclub/loscaboschessclub.github.io/master/images/illustration.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
