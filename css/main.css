@@ -36,7 +36,6 @@ html {
  */
 body {
   margin: 0; }
-
 /* HTML5 display definitions
    ========================================================================== */
 /**
@@ -341,13 +340,20 @@ dt {
 dd {
   margin-bottom: .5rem; }
 
-iframe {
-  heigth: auto !important;
-  max-width: 100% !important;
-  border: 5px solid #d9aa55 !important;
-  border-bottom: 3px solid #d9aa55 !important;
-  background: #d9aa55 !important;
-  }
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+ 
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
 
 .full-container {
   max-width: 100%;
