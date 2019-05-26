@@ -364,6 +364,7 @@ dd {
 
 .lichess {
   border: 5px solid #d9aa55;
+  width: 400px; height: 444px;
   }
 
 .arrow{
