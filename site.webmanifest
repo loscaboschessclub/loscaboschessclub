@@ -1,10 +1,10 @@
 {
-  "short_name": "",
-  "name": "",
+  "short_name": "Chess Club",
+  "name": "Los Cabos Chess Club",
   "icons": [{
-    "src": "icon.png",
+    "src": "check4.png",
     "type": "image/png",
-    "sizes": "192x192"
+    "sizes": "287x287"
   }],
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",
