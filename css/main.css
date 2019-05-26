@@ -342,11 +342,11 @@ dd {
   margin-bottom: .5rem; }
 
 iframe {
+  heigth: auto !important;
+  max-width: 100% !important;
   border: 5px solid #d9aa55 !important;
   border-bottom: 3px solid #d9aa55 !important;
   background: #d9aa55 !important;
-  heigth: auto !important;
-  max-width: 100% !important;
   }
 
 .full-container {
