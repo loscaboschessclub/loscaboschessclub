@@ -362,14 +362,6 @@ dd {
   flex-wrap: wrap;
   }
 
-.lichess {
-  border: 5px solid #d9aa55;
-  border-bottom: 3px solid #d9aa55;
-  background: #9ac9df;
-  max-width: 100%;
-  height: auto;
-  }
-
 .arrow{
     position: absolute;
     top: 50%;
