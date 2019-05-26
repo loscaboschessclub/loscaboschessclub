@@ -422,7 +422,13 @@ dd {
 } 
 
 .medium-container {
-  max-width: 1000px; }
+  margin: -100px auto 0 auto;
+  border: 5px solid #d9aa55;
+  background: #fafafa;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;}
 
 .content-section {
   padding: 30px 0; }
