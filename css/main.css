@@ -353,6 +353,8 @@ dd {
    position: absolute;
    top: 0;
    width: 100%;
+   max-height: 444;
+   max-width: 400;
 }
  
 /* 4x3 Aspect Ratio */
