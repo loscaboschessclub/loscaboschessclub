@@ -2,7 +2,7 @@
   "short_name": "Chess Club",
   "name": "Los Cabos Chess Club",
   "icons": [{
-    "src": "check4.png",
+    "src": "check4.ico",
     "type": "image/png",
     "sizes": "287x287"
   }],
