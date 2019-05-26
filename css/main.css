@@ -515,6 +515,7 @@ dd {
   }
 
 .responsive-image {
+  border: 5px solid #d9aa55;
   max-width: 100%;
   height: auto; }
 
