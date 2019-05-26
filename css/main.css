@@ -342,7 +342,7 @@ dd {
 
 .iframe-container {
   overflow: hidden;
-  padding-top: 56.25%;
+  padding-top: 90%;
   position: relative;
 }
  
@@ -353,10 +353,6 @@ dd {
    position: absolute;
    top: 0;
    width: 100%;
-}
-
-.iframe-container-4x3 {
-  padding-top: 75%;
 }
 
 .full-container {
