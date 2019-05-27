@@ -260,6 +260,10 @@ a:link {
   color: #072b73;
   text-decoration: none; }
 
+a:visited {
+  color: #072b73;
+  text-decoration: none; }
+
 a:hover {
   border-bottom: 1px solid;     
   background: #dce6f2;}
