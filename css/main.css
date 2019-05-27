@@ -256,23 +256,19 @@ h5 {
   h5 {
     font-size: 1.25rem; } }
 
-a {
+a:link {
   color: #072b73;
   text-decoration: none; }
 
-a:link {
-  color: #dce6f2;
-}
-
- a:hover {
+a:hover {
   border-bottom: 1px solid;     
   background: #dce6f2;}
 
- a:focus {
+a:focus {
   border-bottom: 1px solid;
   background: #dce6f2;}
 
-  a:active {
+a:active {
   background: #072b73;
   color: #dce6f2;
   }
