@@ -383,8 +383,12 @@ dd {
   flex-wrap: wrap;
   }
 
-cg-board {
-border: 5px solid #d9aa55 !important;
+board {
+  border: 5px solid #d9aa55;
+}
+
+
+
   }
 
 .arrow{
