@@ -340,10 +340,6 @@ dt {
 dd {
   margin-bottom: .5rem; }
 
-.lichess {
-  background: #d9aa55;
-}
-
 .iframe-container {
   overflow: hidden;
   padding-top: 90%;
