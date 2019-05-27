@@ -378,7 +378,7 @@ dd {
   border: 5px solid #d9aa55;
   background: #fafafa;
   max-width: 800px;
-  min-heigth: 1000px;
+  min-height: 1000px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
