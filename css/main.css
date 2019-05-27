@@ -341,10 +341,10 @@ dd {
   margin-bottom: .5rem; }
 
 .lichess {
-background: #d9aa55;
-border: 5px solid #d9aa55;
-border-bottom: 3px solid #d9aa55;
-width: 93.22209031681935%;
+  background: #d9aa55;
+  border: 5px solid #d9aa55;
+  border-bottom: 3px solid #d9aa55;
+  width: 93.22209031681935%;
 }
 
 .iframe-container {
