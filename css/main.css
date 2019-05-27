@@ -387,13 +387,14 @@ board {
   border: 5px solid #d9aa55;
 }
 
-.arrow{
+.arrow {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
 }
-.arrow span{
+
+.arrow span {
     display: block;
     width: 30px;
     height: 30px;
