@@ -682,6 +682,7 @@ a.full-button {
 /* Forms
   =============== */
 [type=color], [type=date], [type=datetime], [type=datetime-local], [type=email], [type=month], [type=number], [type=password], [type=search], [type=tel], [type=text], [type=url], [type=week], [type=time], select, textarea {
+  font-family: "Tahoma";
   display: block;
   border: 1px solid #cdcdcd;
   border-radius: 4px;
